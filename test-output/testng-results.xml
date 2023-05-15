@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-15T17:33:39 EDT" name="Default suite" finished-at="2023-05-15T17:34:01 EDT" duration-ms="22311">
+    <groups>
+    </groups>
+    <test started-at="2023-05-15T17:33:39 EDT" name="Default test" finished-at="2023-05-15T17:34:01 EDT" duration-ms="22311">
+      <class name="com.BDDCucumber.testRunner.TestRunnerClass">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.BDDCucumber.testRunner.TestRunnerClass@33065d67]" started-at="2023-05-15T17:33:39 EDT" name="beforeTest" finished-at="2023-05-15T17:33:49 EDT" duration-ms="10256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="product_page()[pri:0, instance:com.BDDCucumber.testRunner.TestRunnerClass@33065d67]" started-at="2023-05-15T17:33:49 EDT" name="product_page" finished-at="2023-05-15T17:33:50 EDT" duration-ms="1294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product_page -->
+        <test-method signature="select_item_To_purchase()[pri:1, instance:com.BDDCucumber.testRunner.TestRunnerClass@33065d67]" started-at="2023-05-15T17:33:50 EDT" name="select_item_To_purchase" finished-at="2023-05-15T17:33:54 EDT" duration-ms="4062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_item_To_purchase -->
+        <test-method signature="click_add_to_cart_button()[pri:2, instance:com.BDDCucumber.testRunner.TestRunnerClass@33065d67]" started-at="2023-05-15T17:33:54 EDT" name="click_add_to_cart_button" finished-at="2023-05-15T17:33:57 EDT" duration-ms="2249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_add_to_cart_button -->
+        <test-method signature="check_item_in_the_cart()[pri:3, instance:com.BDDCucumber.testRunner.TestRunnerClass@33065d67]" started-at="2023-05-15T17:33:57 EDT" name="check_item_in_the_cart" finished-at="2023-05-15T17:33:58 EDT" duration-ms="1559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_item_in_the_cart -->
+        <test-method signature="cart_page()[pri:4, instance:com.BDDCucumber.testRunner.TestRunnerClass@33065d67]" started-at="2023-05-15T17:33:58 EDT" name="cart_page" finished-at="2023-05-15T17:34:00 EDT" duration-ms="1336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart_page -->
+        <test-method signature="remove_item_from_cart()[pri:5, instance:com.BDDCucumber.testRunner.TestRunnerClass@33065d67]" started-at="2023-05-15T17:34:00 EDT" name="remove_item_from_cart" finished-at="2023-05-15T17:34:00 EDT" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remove_item_from_cart -->
+        <test-method signature="check_item_remove_from_cart()[pri:6, instance:com.BDDCucumber.testRunner.TestRunnerClass@33065d67]" started-at="2023-05-15T17:34:00 EDT" name="check_item_remove_from_cart" finished-at="2023-05-15T17:34:01 EDT" duration-ms="881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_item_remove_from_cart -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.BDDCucumber.testRunner.TestRunnerClass@33065d67]" started-at="2023-05-15T17:34:01 EDT" name="afterTest" finished-at="2023-05-15T17:34:01 EDT" duration-ms="402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.BDDCucumber.testRunner.TestRunnerClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
